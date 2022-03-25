@@ -1,10 +1,10 @@
 # Hi there, I'm Chris - aka [Clam119][website] 👋 
-# こんにちは、くりすです。[Clam119][website]というユーザー名で知られています [<img align="left" alt="Japan Flag" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/31/flag-for-japan_1f1ef-1f1f5.png" style="padding-right:10px;" />]
+# こんにちは、クリスです。[Clam119][website]というユーザー名で知られています 
 
 ## I'm a Japan-Loving Full Stack Developer from North England!
 
 - 🌱 I’m currently learning Full Stack Development with focuses on modern technologies such as React, Tailwind CSS, and much more.
-- 👯 I’m looking to collaborate with other content creators and open to job opportunities in both the United Kingdom and Japan!
+- 👯 I’m looking to collaborate with other content creators and open to full stack web development opportunities - feel free to connect with me on LinkedIn! [linkedin]
 - 🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to break into the web development industry.
 - ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N2 for Japanese - You can probably tell I love all things Japanese!
 
