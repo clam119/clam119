@@ -4,9 +4,10 @@
 ## I'm a Japan-Loving Full Stack Developer from North England!
 
 - 🌱 I’m currently learning Full Stack Development with focuses on modern technologies such as React, Tailwind CSS, and much more.
-- 👯 I’m looking to collaborate with other content creators and open to full stack web development opportunities - feel free to connect with me on LinkedIn! [linkedin]
-- 🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to break into the web development industry.
+- 👯 I’m looking to collaborate with other content creators and open to full stack web development opportunities - feel free to connect with me on [LinkedIn!] [linkedin]
+- 🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
 - ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N2 for Japanese - You can probably tell I love all things Japanese!
+- 
 
 ### Connect with me:
 
