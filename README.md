@@ -1,7 +1,7 @@
 # Hi there, I'm Chris - aka [Clam119][website] 👋 
 ## こんにちは、クリスです。[Clam119][website]というユーザー名で知られています 
 
-## I'm a Japan-Loving Full Stack Developer from North England!
+## I'm a Japan-Loving Full Stack Developer from North-West England!
 
 - 🌱 I’m currently learning Full Stack Development with focuses on modern technologies such as React, Tailwind CSS, and much more.
 - 👯 I’m looking to collaborate with other content creators and open to full stack web development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
