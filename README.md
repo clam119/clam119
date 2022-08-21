@@ -3,8 +3,8 @@
 
 ## I'm a Japan-Loving Full Stack Developer from North-West England!
 
-- 🌱 I’m currently learning Full Stack Development with focuses on modern technologies such as React, Tailwind CSS, and much more.
-- 👯 I’m looking to collaborate with other content creators and open to full stack web development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
+- 🌱 I'm currently a Trainee Full-Stack Software Developer at [Northcoders](https://northcoders.com/) focusing on modern technologies such as React/Express/PostgreSQL, and much more.
+- 👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
 - 🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
 - ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N2 for Japanese - You can probably tell I love all things Japanese!
 
@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: https://christopher-lam.com
+[website]: https://clam-portfolio-website.herokuapp.com/
 [twitter]: https://twitter.com/anipi119
 [youtube]: https://www.youtube.com/channel/UCdrTypeZ2BLb_mhVwaY3tAA
 [instagram]: https://www.instagram.com/clam1198/
