@@ -6,7 +6,7 @@
 - 🌱 I'm currently a Trainee Full-Stack Software Developer at [Northcoders](https://northcoders.com/) focusing on modern technologies such as React/Express/PostgreSQL, and much more.
 - 👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
 - 🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
-- ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N2 for Japanese - You can probably tell I love all things Japanese!
+- ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N1 for Japanese - You can probably tell I love all things Japanese!
 
 
 ### Connect with me:
