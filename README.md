@@ -3,7 +3,7 @@
 
 ## I'm a Japan-Loving Full Stack Developer from North-West England!
 
-- 🌱 I'm currently a Trainee Full-Stack Software Developer at [Northcoders](https://northcoders.com/) focusing on modern technologies such as React/Express/PostgreSQL, and much more.
+- 🌱 I'm currently a Full-Stack Software Developer at [Northcoders](https://northcoders.com/) focusing on modern technologies such as React/Express/PostgreSQL, and much more.
 - 👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
 - 🥅 2023 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
 - ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N1 for Japanese - You can probably tell I love all things Japanese!
@@ -19,12 +19,6 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/anipi119#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/anipi119#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/christopher-lam-792b90161/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/christopher-lam-792b90161/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/clam1198#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/clam1198#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -58,4 +52,3 @@
 [twitter]: https://twitter.com/anipi119
 [youtube]: https://www.youtube.com/channel/UCdrTypeZ2BLb_mhVwaY3tAA
 [instagram]: https://www.instagram.com/clam1198/
-[linkedin]: https://www.linkedin.com/in/christopher-lam-792b90161/
