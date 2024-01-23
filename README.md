@@ -3,9 +3,9 @@
 
 ## I'm a Japan-Loving Full Stack Developer from North-West England!
 
-- 🌱 I'm currently a Full-Stack Software Developer at [Northcoders](https://northcoders.com/) focusing on modern technologies such as React/Express/PostgreSQL, and much more.
-- 👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
-- 🥅 2023 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
+- 🌱 I'm a Graduate Full-Stack Software Developer from [Northcoders](https://northcoders.com/) where I focused on modern technologies such as React/Express/PostgreSQL, and much more.
+- 👯 I’m currently open to full-stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
+- 🥅 2024 Goals: Kickstart my journey into Software Development again by building projects and collaborating with amazing people :)
 - ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N1 for Japanese - You can probably tell I love all things Japanese!
 
 
