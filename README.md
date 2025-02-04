@@ -5,8 +5,8 @@
 
 - 🌱 I'm a Graduate Full-Stack Software Developer from [Northcoders](https://northcoders.com/) where I focused on modern technologies such as React/Express/PostgreSQL, and much more.
 - 👯 I’m currently open to full-stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!
-- 🥅 2024 Goals: Kickstart my journey into Software Development again by building projects and collaborating with amazing people :)
-- ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N1 for Japanese - You can probably tell I love all things Japanese!
+- 🥅 2025 Goals: Kickstart my journey into Software Development again by building projects and collaborating with amazing people :)
+- ⚡ Fun fact: I'm trilingual (English,Japanese,Cantonese), and have the JLPT N2 for Japanese - You can probably tell I love all things Japanese!
 
 
 ### Connect with me:
